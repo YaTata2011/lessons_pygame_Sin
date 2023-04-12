@@ -1,1 +1,1 @@
-# lessons_pygame_Sin
+# lessons_pygame_shuter
